@@ -1,0 +1,23 @@
+.contattaci{
+    background: linear-gradient(343deg, blue, #7f5ec06e);;
+    height: 100vh;
+    padding-top: 100px ;
+    position: relative;
+}
+
+.contact-form-container{
+    background-color: white;
+}
+label{
+    margin-right: 10px ;
+}
+
+input{
+    border: 0;
+}
+
+textarea{
+    width: 100%;
+    border:  0;
+    margin-top: 10px;
+}

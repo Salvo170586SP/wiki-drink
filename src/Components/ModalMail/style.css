@@ -1,0 +1,17 @@
+#modal-mail{
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #000000c4;
+    display: flex;
+    align-items: center;
+}
+
+
+.comp{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}

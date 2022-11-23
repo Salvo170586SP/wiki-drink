@@ -1,0 +1,58 @@
+
+
+.presentation{
+    height: 100vh;
+    padding-top: 100px;
+    background: url('../../../public/imgs/home-hero.4af58b24.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    color: white;
+}
+.presentation-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.76);
+}
+
+.titleHome{
+    width: 600px;
+}
+.titleHome p{
+    text-align: justify;
+    color: #c6c6c6;
+}
+
+.home-title{
+    margin-bottom: 30px;
+}
+
+.home-title h2{
+    font-weight: 900;
+}
+
+.scopri.btn {
+    border-radius: 25px;
+    background-color: #f72585;
+    border: 0;
+    padding: 10px 15px;
+}
+
+.scopri.btn:hover{
+    background-color: #f47cb2;
+}
+
+.drinks{
+    padding: 20px 0;
+}
+
+.brand-color{
+    color: #f72585;
+}
+
+.search p{
+    width: 350px;
+}

@@ -1,0 +1,40 @@
+.drink{
+    position: relative;
+    overflow: hidden;
+    width: 316px;
+}
+
+.imgDrink {
+    width: 100%;
+}
+
+.textDrink{
+    overflow: hidden;
+    position: absolute;
+    bottom: -90px;
+    margin: 0;
+    color: white;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.753);
+    width: 100%;
+    transition: 0.2s linear;
+}
+
+.textDrink.p{
+    padding: 0;
+    margin: 0;
+}
+
+.drink:hover .textDrink{
+   bottom: -13px;
+    transition: 0.2s linear;
+}
+
+.link-detail{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    transition: 0.1s linear;
+}
+.link-detail:hover{
+    color: rgb(243, 143, 143);
+}
